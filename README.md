@@ -183,7 +183,7 @@ Body:
 #### Get a list of orders received by a seller:
 
 ```javascript
-GET http://localhost:3000/api/seller/orders
+GET http://localhost:5000/api/seller/orders
 
 ```
 Please make sure to replace the sample data with actual data when making requests.
